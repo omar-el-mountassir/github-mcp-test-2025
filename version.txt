@@ -1,0 +1,13 @@
+v1.0.0
+
+GitHub MCP Test Repository
+Première version stable des tests
+
+Fonctionnalités validées:
+- Reviews directes
+- Modification PR
+- Gestion branches
+- Tests complets
+
+---
+Tag créé pour test get_tag
